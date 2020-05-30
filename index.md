@@ -1,4 +1,4 @@
-### In pursuit of the timeless.
+# In pursuit of the timeless.
 <br>
 
-[A trial post](/posts/firstH.html) 
+[A trial post](/posts/firstH.md) 
