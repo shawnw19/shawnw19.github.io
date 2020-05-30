@@ -1,3 +1,5 @@
+## 2020-05-30
+
 # Beyond Lambda Calculus and Turing Machine
 
 Like most learners I was introduced with Turing Machine as the first ubiquitous computation model upon commencement of my programming journey while Lambda Calculus remained mysterious for a period.
