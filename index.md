@@ -4,4 +4,4 @@
 ## Contents
 
 2020-05-30  
-[A trial post](/posts/firstH.md) 
+[Beyond Lambda Calculus And Turing Machine](/2020/05/BeyondLCAndTM.md ) 
