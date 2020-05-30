@@ -1,5 +1,4 @@
-# In pursuit of the timeless.
-<br>
+## In pursuit of the timeless.
 
 ## Contents
 
