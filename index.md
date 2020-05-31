@@ -1,6 +1,6 @@
 ## In pursuit of the timeless. 寻找永恒
 
-[About](/posts/about.md)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Contact](/post/contact.md)
+[About](/posts/about.md)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Contact](/posts/contact.md)
 
 ## Contents
 
