@@ -26,4 +26,6 @@ It would be very interesting to rethink various theories in computation from thi
 
 Using theories that are in essence same for analysis of situations beyond them can be dangerous and leads to futility. In fact inventors of early computers are electrical engineers who were not familiar with Alonzo Church or Alan Turing. Logical gates and status storage which were both available for decades provided room for imagination of more subtle usage of them which is actually general digital computers. Von Neumann architecture is not genius invention from void but development of existing ideas.
 
-To conclude we should keep a balance view of major theories behind the computing machines. Many new things, programming paradigms are disguised by decades-old even century-old conventional things.
+To conclude we should keep a balance view of major theories behind the computing machines. Many new things, programming paradigms are disguised by decades-old even century-old conventional things. It's impossible to have new emerged problems solved with LC/TM level abstraction. The real innovation is precious.
+
+ps In Computation: finite and infinite machines by Marvin Minsky, a book appeared 2 years before his book on neural networks, is an elaboration of TM that is obscure by nature. I highly doubt that his and most subsequent people's treatment of neural networks is the same that none of them went beyond simple TM model. An example is The pattern on the stone: the simple ideas that make computers work by Hillis, W. Daniel.
