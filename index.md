@@ -1,4 +1,4 @@
-## In pursuit of the timeless. 寻找永恒
+## In pursuit of the timeless. 追求永恒
 
 [About](/posts/about.md)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Contact](/posts/contact.md)
 
