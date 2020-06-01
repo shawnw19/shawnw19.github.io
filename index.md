@@ -4,11 +4,14 @@
 
 ## Contents
 
+2020-06-01   
+[小项目在缓步前行](/posts/06/小项目在缓步前行.md) 
+
+
 2020-05-30  
 [Beyond Lambda Calculus And Turing Machine](/posts/2020/05/BeyondLCAndTM.md) 
 
 
-[A trial post](/posts/firstH.md) 
 
 
 <br/><br/><br/>
