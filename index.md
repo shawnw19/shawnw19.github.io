@@ -1,5 +1,7 @@
-# NTL's Blog
-## In pursuit of the timeless. 追求永恒
+## NTL's Blog    
+
+# In pursuit of the timeless. 追求永恒    
+
 
 **[About](/posts/about.md)**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Contact](/posts/contact.md)**
 
