@@ -5,6 +5,10 @@
 
 ## Contents
 
+2020-06-20    
+[Three Dimensions Of Computing](posts/2020/06/ThreeDimensionsOfComputing.md)
+
+
 2020-06-01   
 [小项目在缓步前行](/posts/2020/06/小项目在缓步前行.md) 
 
